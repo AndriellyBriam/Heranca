@@ -37,8 +37,8 @@ public class Teste {
 		
 		
 		
-		for(Veiculo v: veculo){
-			v.exibirDados();
+		for(Veiculo veculo: veculo){
+			veculo.exibirDados();
 		}
 
 	}
