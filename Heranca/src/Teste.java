@@ -19,15 +19,15 @@ public class Teste {
 		Oni4.exibirDados();
 		Onibus Oni5 = new Onibus("RIE-2984",2004,64);
 		Oni5.exibirDados();
-		Caminhao cami1 = new Caminhao("LLY-2825",1992,4); 
+		Caminhao cami1 = new Caminhao("LLY-2825",1992,5); 
 		cami1.exibirDados();
-		Caminhao cami2 = new Caminhao("IUD-2572",1997,6); 
+		Caminhao cami2 = new Caminhao("IUD-2572",2000,12); 
 		cami2.exibirDados();
-		Caminhao cami3 = new Caminhao("BRI-2580",1995,8); 
+		Caminhao cami3 = new Caminhao("BRI-2580",1992,5); 
 		cami3.exibirDados();
-		Caminhao cami4 = new Caminhao("AMD-4521",1996,6); 
+		Caminhao cami4 = new Caminhao("AMD-4521",1990,1); 
 		cami4.exibirDados();
-		Caminhao cami5 = new Caminhao("ASI-9872",1998,4); 
+		Caminhao cami5 = new Caminhao("ASI-9872",1987,2); 
 		cami5.exibirDados();
 		
 		veculo.add(new Onibus (Oni1));
