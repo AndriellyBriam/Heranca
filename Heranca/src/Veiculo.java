@@ -24,8 +24,6 @@ public abstract class Veiculo {
 		return ano;
 	}
 	
-	public abstract void exibirDados() {
-		
-	}
+	public abstract void exibirDados()
 	
 }
